@@ -1,0 +1,18 @@
+.square {
+    width: 75px;
+    height: 75px;
+    border: 1px solid silver;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.square.square-clicked {
+    background-color: silver;
+}
+
+.square.square-hasItem {
+    background-color: aqua;
+}

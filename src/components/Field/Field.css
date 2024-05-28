@@ -1,0 +1,9 @@
+.Field {
+    display: flex;
+    justify-content: center;
+    width: 522px;
+    flex-wrap: wrap;
+    margin: 55px auto 15px;
+    padding: 25px;
+    border: 1px solid silver;
+}
